@@ -5,7 +5,7 @@ Niagara Falls Transit buses for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from May 6, 2019 to September 1, 2019.
+Schedule from May 6, 2019 to January 5, 2020.
 ----------
 Full description:
 This app adds Niagara Falls Transit buses information to MonTransit.

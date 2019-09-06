@@ -1,3 +1,9 @@
+3634,'','Morrison & Dorchester HUB',43.1037618,-79.11559
+3646,'','Church''s Ln & Portage',43.13002,-79.097665
+3686,'','McLeod & Dorchester',43.070027,-79.109777
+3697,'','Weinbrenner & Willloughby',43.0492,-79.04668
+3848,'','Boys & Girls Club',43.069447,-79.145732
+3909,'','Murray Hl & Main',43.083637,-79.083484
 6103,'','Queen St & Ontario Av',43.10668,-79.065002
 6104,'','Queen St & St. Clair Av',43.106663,-79.066822
 6106,'','Queen St & St. Lawrence Av',43.106672,-79.07008
@@ -7,9 +13,12 @@
 6111,'','4th Av & Vly Way',43.10331,-79.0786
 6112,'','4th Av & Vly Way',43.102507,-79.078577
 6113,'','4th Av & Jepson St',43.100123,-79.078465
+6114,'','4th Ave & McRae NW',43.09875,-79.07861
 6115,'','McRae St & Detroit Av',43.09859,-79.081167
+6116,'','Morrison & Portage NW',43.104396,-79.093789
 6120,'','Morrison St & 5645 Morrison St',43.104447,-79.08832
 6121,'','Morrison St & 5753 Morrison St',43.10443,-79.090657
+6122,'','Morrison & Portage Continues NE',43.10413,-79.09571
 6123,'','Portage Rd & Scott St',43.101315,-79.091633
 6124,'','Portage Rd & 5123 Portage Rd',43.099638,-79.091157
 6125,'','Vly Way & Portage NW',43.097962,-79.09138
@@ -20,6 +29,7 @@
 6130,'','Portage Rd & Opp Hosp',43.0939,-79.091713
 6131,'','Main St & Summer St',43.09162,-79.092882
 6132,'','Main St & Ferry St Transfer Poin',43.089783,-79.092865
+6133,'','Main & Ferry Hub',43.088659,-79.092531
 6134,'','Main St & Culp St',43.086168,-79.091245
 6135,'','Stanley Av & Hamilton Cemetery',43.110392,-79.086047
 6136,'','Bridge St & Homewood Av',43.108483,-79.083552
@@ -37,6 +47,7 @@
 6153,'','Stanley Av & Dunn St',43.078515,-79.083908
 6160,'','Main St & Ferry St (Money Mart)',43.089728,-79.092755
 6161,'','Main St & Summer St',43.09135,-79.092897
+6162,'','Portage Rd & Hosp',43.094035,-79.09153
 6164,'','5719 McLeod Rd',43.07125,-79.087477
 6165,'','Murray St & Stanley Av',43.083513,-79.085252
 6166,'','Vly Way & Drummond Rd',43.097755,-79.097182
@@ -47,7 +58,10 @@
 6172,'','Morrison St & Law Av',43.104383,-79.08929
 6173,'','Morrison St & Stanley Av',43.104415,-79.08607
 6174,'','Morrison St & Portage Rd',43.104445,-79.092915
+6175,'','Morrison&Opp Oakes Pk',43.104441,-79.088156
+6177,'','Morrison Opp. Portage Rd Cont.',43.103986,-79.096166
 6178,'','McRae St & Detroit Av',43.098518,-79.081263
+6179,'','Fourth&McRae NE',43.09873,-79.078479
 6180,'','4th Av & Jepson St',43.100258,-79.078393
 6181,'','4th Av & Vly Way',43.102078,-79.078465
 6182,'','4th Av & Wilmott St',43.103428,-79.07852
@@ -58,17 +72,22 @@
 6187,'','Huron St & Crysler Av',43.105655,-79.068802
 6188,'','Huron St & St. Clair Av',43.105655,-79.067697
 6189,'','Queen St & Erie Av',43.106655,-79.064303
+6190,'','Huron@Buckley S/W Corner',43.10554,-79.0717
+6192,'','Bridge@Erie',43.10876,-79.06296
 6193,'','Bridge St & River Rd',43.108865,-79.060488
 6194,'','Victoria Av & Morrison St',43.104757,-79.0733
 6195,'','Victoria Av & Simcoe St',43.101983,-79.073172
 6197,'','Victoria Av & McRae St',43.099408,-79.073068
 6198,'','Victoria Av & Roberts St',43.09692,-79.07295
 6199,'','Victoria Av & Bender St',43.09452,-79.072855
+6200,'','Drummond & Lundy''s Ln SW',43.088575,-79.097838
 6201,'','Drummond Rd & LL SE',43.088878,-79.097713
+6202,'','Dorchester & Across Micmicking',43.12782,-79.11262
 6204,'','Ferry St & Gladstone Av',43.089633,-79.088892
 6206,'','Ferry St & Main St',43.089608,-79.091897
 6207,'','Victoria Av & Walnut St',43.093383,-79.07407
 6211,'','Dunn St & Locus Av',43.0788,-79.094995
+6212,'','Dunn & Drummond NE',43.078665,-79.097443
 6213,'','Dunn St & Kiwanis Cres',43.078553,-79.100685
 6214,'','Dunn St & Caledonia St',43.078483,-79.102912
 6215,'','Dunn St & 6679 Dunn St',43.07826,-79.105923
@@ -88,6 +107,7 @@
 6231,'','4850 Montrose NE',43.103133,-79.123958
 6232,'','4746 Montrose Rd',43.104803,-79.124067
 6233,'','Montrose Rd & Border City',43.109167,-79.124282
+6234,'','Culp SW@Dawlish',43.08588,-79.0966
 6237,'','Culp St & Main St',43.086278,-79.09161
 6238,'','McLeod Rd & Merritt Av',43.070638,-79.103705
 6239,'','McLeod Rd & Dell Av',43.070695,-79.101712
@@ -99,6 +119,7 @@
 6246,'','Drummond & Dunn SE',43.078475,-79.097182
 6247,'','Dunn St & Locus Av',43.078745,-79.094805
 6248,'','Montrose Rd S.E. & Chorozy St',43.1121,-79.124417
+6250,'','Victoria&ClifHill SE',43.09242,-79.075408
 6251,'','Victoria Av South Side & Walnut',43.093257,-79.07403
 6252,'','Portage Rd & St. Paul/O''Neil St',43.123425,-79.099573
 6253,'','Culp St & Main St',43.086295,-79.092095
@@ -118,6 +139,8 @@
 6269,'','Ferry St & Temperence Av',43.089465,-79.089607
 6270,'','Ferry St & Allendale Av',43.08949,-79.086
 6271,'','Ferry St & Fallsview Blvd',43.089522,-79.083012
+6272,'','Dorchester & Harriman',43.12449,-79.11251
+6273,'','Woodbine & Paddock SW',43.104223,-79.131442
 6275,'','Victoria Av & Bender Hl',43.094775,-79.072712
 6276,'','Victoria Av & 5306 Victoria Av',43.097357,-79.072807
 6277,'','Victoria Av & Ryerson Cr',43.098915,-79.072878
@@ -131,6 +154,7 @@
 6289,'','Bridge St & Homewood Av',43.108578,-79.08317
 6301,'','Kalar Rd & Catalina St',43.087693,-79.13617
 6302,'','Kalar Rd & Forestview Blvd',43.082193,-79.135908
+6304,'','Dorchester@ LL NW Corner',43.08935,-79.11064
 6309,'','Kalar Rd & 6623 Kalar Rd',43.079118,-79.135813
 6310,'','Kalar Rd & Coventry Rd',43.074962,-79.13567
 6311,'','Kalar Rd & McGarry Dr',43.072912,-79.135535
@@ -143,26 +167,32 @@
 6321,'','Kalar Rd & Coventry Rd',43.07516,-79.135487
 6322,'','Kalar Rd & 3730 Kalar Rd',43.0771,-79.13559
 6323,'','Kalar Rd & 6600 Kalar Rd',43.078903,-79.135662
-6330,'','Kalar Rd & Lundy''s Ln NW',43.089152,-79.136324
+6330,'','Kalar Rd & Lundy''s Ln NW',43.089152,-79.1363239
 6346,'','Kalar Rd & Westwood St',43.080278,-79.13567
 6347,'','Kalar Rd & 6066 Kalar Rd',43.085793,-79.13586
 6351,'','Paddock Trl Dr & Post Rd',43.100545,-79.135972
 6352,'','Paddock Trl Dr & Epsom Ct',43.100568,-79.133793
-6353,'','Paddock Trl Dr & Preakness St',43.100973,-79.131855
-6354,'','Paddock Trl Dr & Aintree Dr',43.10288,-79.131283
+6355,'','Paddock Trl & Woodbine SE',43.104128,-79.131355
 6356,'','Woodbine St & 8103 Woodbine St',43.104303,-79.133675
 6357,'','Woodbine St & Kalar Rd',43.104255,-79.13648
 6359,'','Kalar Rd & 4240 Kalar Rd',43.110733,-79.13733
 6360,'','Kalar Rd & Niven St',43.11225,-79.137402
+6361,'','Kalar&ThoSto SE',43.11409,-79.13734
 6362,'','Thorold Stone Rd & Shiners Crk',43.114468,-79.130233
 6364,'','Montrose Rd & Thorold Stone Rd',43.113602,-79.124695
 6365,'','Montrose Rd & Chorozy St',43.112402,-79.124615
 6366,'','Montrose Rd & Alpine Dr',43.108627,-79.124385
+6367,'','Montrose & Woodbine SW',43.104096,-79.12424
 6369,'','Montrose Rd & Preakness St',43.100457,-79.124138
 6370,'','Montrose Rd & Watson St',43.096713,-79.12386
 6371,'','5453 Montrose Rd',43.094973,-79.12374
 6372,'','Montrose Rd & Rysdale St',43.093718,-79.123638
 6373,'','Montrose Rd & Wayne St',43.091078,-79.123487
+6375,'','6083 Montrose Rd',43.086112,-79.123263
+6376,'','Montrose Rd & Charnwood Av',43.084245,-79.123217
+6377,'','6409 Montrose Rd',43.081972,-79.123137
+6378,'','Montrose Rd & Badger Rd',43.08051,-79.123065
+6379,'','Montrose Rd & Kinsmen Ct',43.07644,-79.123432
 6380,'','O''Neil St & St. Patricks Av',43.122852,-79.10125
 6381,'','O''Neal St & Marlborough St',43.122733,-79.105677
 6382,'','O''Neal St & Marion St',43.122645,-79.10857
@@ -176,10 +206,13 @@
 6390,'','6410 Montrose Rd',43.081972,-79.123057
 6391,'','Montrose&Delta N',43.083975,-79.123128
 6392,'','6100 Montrose Rd',43.08593,-79.123192
+6394,'','Dorchester@LL SW',43.08859,-79.1106
 6395,'','Dorchester Rd & Barker St',43.087082,-79.110462
 6396,'','Dorchester Rd & Stokes St',43.084022,-79.110318
 6397,'','Dorchester Rd & Coach Dr',43.082337,-79.11027
 6398,'','McLeod Rd & Sharon Av',43.070535,-79.112773
+6399,'','3652 Dorchester Rd',43.07036,-79.11703
+6400,'','Dor Rd@Across Orchard Pk',43.11978,-79.11208
 6401,'','McLeod Rd & Jubilee Dr',43.070417,-79.11302
 6402,'','Dorchester Rd & McLeod Rd',43.071617,-79.109762
 6403,'','Dorchester Rd & Caledonia St',43.073635,-79.109857
@@ -206,6 +239,7 @@
 6431,'','Bridge St & 3rd Av',43.108643,-79.077273
 6432,'','Bridge St & 4th Av',43.108643,-79.0786
 6434,'','Bridge St & 6th Av',43.108618,-79.080882
+6435,'','Mt. Carmel Plz',43.116892,-79.123685
 6440,'','Dorchester Rd & Stokes St',43.083712,-79.110222
 6441,'','Dorchester Rd & Barker St',43.086867,-79.11035
 6445,'','Portage Rd & Colborne St',43.119252,-79.099533
@@ -223,12 +257,14 @@
 6458,'','Montrose Rd & Cardinal Dr',43.121057,-79.12502
 6459,'','Montrose Rd & Mt Carmel Blvd',43.118863,-79.124988
 6460,'','Montrose Rd & Thorowest Plz',43.116018,-79.124838
+6461,'','Montrose Rd & Thorold Stone Rd N',43.114833,-79.124695
 6466,'','Portage Rd & St. John St',43.117067,-79.099295
 6467,'','Portage Rd & Colborne St',43.118807,-79.099303
 6468,'','Keith St & Portage Rd',43.120007,-79.098763
 6469,'','Keith St & Sinnicks Av',43.120087,-79.094932
 6470,'','Ailanthus Av & Frontenac St',43.072532,-79.08857
 6471,'','McLeod Rd & Ailanthus Av',43.071258,-79.088335
+6472,'','Sylvia Pl@Ferry St S/E',43.08902,-79.09065
 6478,'','Bridge St & 6th Av',43.108563,-79.081143
 6480,'','Bridge St & 4th Av',43.108578,-79.07891
 6481,'','Bridge St & 3rd Av',43.108578,-79.077567
@@ -246,6 +282,7 @@
 6494,'','Church''s Ln & Henley Av',43.130378,-79.088877
 6497,'','Bridge St & Crysler Av',43.108595,-79.068848
 6498,'','Stanley Av & Arthur St',43.101473,-79.085633
+6499,'','Church''s Ln & St. Paul',43.12994,-79.09974
 6500,'','Riall St & St. Patrick Av',43.13014,-79.101568
 6501,'','Riall St & St. George Av',43.130163,-79.103475
 6502,'','Riall St & St. Andrew Av',43.130117,-79.105812
@@ -256,7 +293,11 @@
 6514,'','Casey St & Mountjoy Crt',43.125745,-79.119028
 6516,'','Harriman St & Wiltshire Blvd',43.124283,-79.117533
 6519,'','Paddock Trl Dr & Aintree (N/W)',43.102857,-79.131243
-6521,'','Kalar Rd N.W OPP 5081 Kalar Rd',43.099083,-79.136672
+6520,'','Kalar Rd N.W. @ 5081 Kalar Rd',43.099208,-79.13675
+6521,'','Kalar Rd N.W OPP 5081 Kalar Rd',43.0990825,-79.136672
+6522,'','Paddock Trl Dr & Preakness 80',43.101068,-79.131593
+6523,'','Paddock Trl Dr & Epson Ct',43.100537,-79.133262
+6524,'','Paddock Trl Dr & Kalar Rd 8261',43.100488,-79.136672
 6526,'','Dorchester Rd & Thorold Stone Rd',43.113903,-79.111803
 6527,'','Dorchester Rd & Dolphin St',43.111385,-79.111637
 6528,'','Dorchester Rd & Freeman St',43.109723,-79.111527
@@ -283,7 +324,7 @@
 6555,'','Dorchester Rd & Pettit Av',43.112798,-79.111662
 6556,'','Dorchester Rd & Thorold Stone SE',43.114508,-79.111638
 6558,'','Stanley Av & George St',43.113553,-79.08619
-6559,'','O''Neal St & Dorchester Rd',43.122455,-79.111255
+6559,'','O''Neal St & Dorchester Rd',43.12251373,-79.11125265
 6560,'','O''Neal St & Marion St',43.122527,-79.108545
 6561,'','O''Neal St & Marlborough',43.122598,-79.10586
 6562,'','6338 O''Neal St',43.12271,-79.10129
@@ -369,7 +410,6 @@
 6695,'','Ailanthus Av & Dunn St',43.078872,-79.0896
 6698,'','Weinbrenner Rd & Campbell Av',43.048958,-79.054957
 6699,'','Weinbrenner Rd & Montcalm Cr',43.04895,-79.056768
-6700,'','Woodbine St & Kalar Rd',43.104097,-79.135208
 6701,'','Willoughby Dr & Welland St',43.058305,-79.049935
 6703,'','McLeod Rd & Adams Av',43.070702,-79.106487
 6704,'','McLeod Rd & Bruce Av',43.070647,-79.108355
@@ -384,9 +424,10 @@
 6717,'','McLeod Rd & St. Michael''s Schoo',43.069733,-79.143585
 6718,'','Willoughby Dr & Gunning Dr',43.055237,-79.046318
 6725,'','Queen St & Zimmerman Av',43.106688,-79.061252
+6726,'','Montrose & S Of Mcleod',43.06963,-79.12639
 6733,'','Brown Rd @Shadbush',43.059183,-79.128845
-6734,'','Kalar SE @ Mcleod',43.06974,-79.13525
-6735,'','Kalar SE Opp Elderberry',43.06531,-79.13516
+6734,'','Kalar @ N Buckeye',43.06974,-79.13525
+6735,'','Kalar SE Opp Elderberry',43.06533039,-79.1352989
 6800,'','6733 Kalar Rd',43.076988,-79.135782
 6801,'','Morrison & Drummond NW',43.104242,-79.099009
 6802,'','Thorold Stone Rd & Burbank Cr',43.114873,-79.115547
@@ -399,6 +440,7 @@
 6812,'','Jill Dr & Valliant St',43.067285,-79.110612
 6815,'','Welland St & Banting St',43.052948,-79.056332
 6816,'','Welland St & Oliver St',43.054847,-79.053877
+6819,'','Montrose Rd & Charnwood Av',43.077982,-79.12297
 6820,'','Kalar Rd & North Of Rideau St',43.083513,-79.135773
 6821,'','Kalar Rd & Westwood St',43.080247,-79.135852
 6824,'','Drummond Rd & Thorold Stone Rd',43.114738,-79.099002
@@ -431,23 +473,18 @@
 6914,'','Stanley Av & Vly Way',43.098938,-79.085435
 6915,'','Kalar Rd & Beaverdams Rd',43.095172,-79.136448
 8270,'','Ferry St & Allendale (S/E)',43.08951,-79.0859
-13029,'','4th Ave & McRae NW',43.09875,-79.07861
 13034,'','Ailanthus & McLeod',43.071246,-79.08841
-13037,'','Boys & Girls Club',43.069447,-79.145732
 13041,'','Bridge & Victoria',43.108618,-79.072583
-13047,'','Church''s Ln & Portage',43.13002,-79.097665
 13048,'','Church''s Ln & Stanley Ave',43.130363,-79.087668
 13054,'','Dorchester & McLeod',43.07083,-79.10992
 13055,'','Dorchester & Morrison NW',43.105361,-79.111406
-13056,'','Dorchester & Thorold SW',43.11473,-79.1115
+13056,'','Dorchester & Thorold SW',43.114699,-79.111725
 13057,'','Dorchester & Dunn SE',43.07768,-79.110032
 13058,'','Dorchester & Lundy''s Ln',43.089053,-79.110493
 13060,'','Drummond & Dunn NW',43.0788,-79.09734
-13061,'','Drummond & Lundy''s Ln SW',43.088575,-79.097838
 13062,'','Drummond & McLeod',43.07116,-79.09716
 13063,'','Drummond & Morrison NW',43.104175,-79.09861
-13065,'','Drummond & Vly Way NW',43.098312,-79.098135
-13066,'','Dunn & Drummond NE',43.078665,-79.097443
+13065,'','Drummond & Vly Way NE',43.098312,-79.098135
 13079,'','Ferry & Stanley',43.08977,-79.08399
 13080,'','Ferguson & Victoria',43.113443,-79.072942
 13082,'','Gunning & Willloughby',43.055133,-79.046548
@@ -455,32 +492,19 @@
 13086,'','GNGH Hosp',43.09428,-79.09108
 13089,'','Jubilee & Dorchester',43.064638,-79.109857
 13090,'','Kalar&Thorold Stone SW',43.11386,-79.137622
-13091,'','Kalar Rd. & Westwood',43.08024,-79.13622
-13092,'','Kalar& Lundy''s Ln SE',43.08846,-79.13554
-13096,'','Main & Ferry Hub',43.088659,-79.092531
+13091,'','Kalar Rd. & Westwood',43.08021315,-79.135855
+13092,'','Kalar& Lundy''s Ln SE',43.088743,-79.136041
 13098,'','McBain Ctr',43.071752,-79.12467
-13099,'','McLeod & Dorchester',43.070027,-79.109777
-13103,'','Montrose & Woodbine SW',43.104096,-79.12424
 13105,'','Montrose & Lundy''s Ln SW',43.08839,-79.123347
-13106,'','Morrison & Dorchester HUB',43.103762,-79.11559
 13107,'','Morrison & Drummond SW',43.104242,-79.099009
 13109,'','Morrison & Portage',43.104247,-79.093405
 13110,'','Mt. Carmel Plz',43.116892,-79.123685
-13112,'','Murray Hl & Main',43.083637,-79.083484
-13115,'','NF Bus Terminal',43.10799,-79.063041
+13115,'','NF Bus Terminal',43.10783,-79.0635
 13121,'','O''Neil And Dorchester',43.122455,-79.111255
-13123,'','Paddock Trl & Woodbine SE',43.104128,-79.131355
 13125,'','Portage Rd. & Keith St.',43.119753,-79.099462
 13130,'','Queen & Vly Way',43.106307,-79.072155
 13141,'','Stanley Ave & Marineland Pkwy',43.0682,-79.08135
 13142,'','Stanley&N Old McLeod',43.07136,-79.08418
-13144,'','Morrison & Portage NW',43.104396,-79.093789
-13145,'','Morrison & Portage Continues NE',43.10413,-79.09571
-13146,'','Morrison Opp. Portage Rd Cont.',43.103986,-79.096166
-13147,'','Dorchester & Across Micmicking',43.12782,-79.11262
-13148,'','Dorchester & Harriman',43.12449,-79.11251
-13149,'','Dorchester@ LL NW Corner',43.08935,-79.11064
-13151,'','Church''s Ln & St. Paul',43.12994,-79.09974
 13152,'','Morrison & Drummond SW',43.10414,-79.098955
 13153,'','ThSt Rd& 6604 South',43.114845,-79.106489
 13154,'','Murray SW@Stanley',43.08327,-79.08481
@@ -496,42 +520,21 @@
 13173,'','Vly Way & Queen',43.106307,-79.072155
 13174,'','Victoria & Bender Hl',43.09452,-79.072855
 13180,'','Victoria & Ctr St.',43.092398,-79.075477
-13182,'','Victoria & Stanley NE',43.08989,-79.08401
+13182,'','Victoria & Stanley NE',43.08964131,-79.08454322
 13185,'','Wal-Mart',43.067427,-79.11955
-13186,'','Weinbrenner & Willloughby',43.0492,-79.04668
-13188,'','Woodbine & Paddock SW',43.104223,-79.131442
-14856,'','McL@Stanley Ave SW Corner',43.07118,-79.08411
-14857,'','Huron@Buckley S/W Corner',43.10554,-79.0717
-14859,'','Bridge@Erie',43.10876,-79.06296
-14860,'','Culp SW@Dawlish',43.08588,-79.0966
-14863,'','Dor Rd@Across Orchard Pk',43.11978,-79.11208
+14856,'','McL@Stanley Ave NW Corner',43.07121,-79.0838
 14864,'','Thld Stone @Glenoaks',43.11449,-79.13513
-14865,'','Sylvia Pl@Ferry St S/E',43.08902,-79.09065
-14866,'','Montrose & S Of Mcleod',43.06963,-79.12639
-15754,'','Montrose@LL SE Corner',43.088832,-79.123085
-15805,'','Dorchester@LL SW',43.08859,-79.1106
+15754,'','Montrose@LL SE Corner',43.08883166,-79.12308455
 15808,'','Dunn&Drummond SW',43.07858,-79.09747
 15809,'','Dunn& Stanley SW',43.079093,-79.08498
 15810,'','Victoria&Queen NE',43.106963,-79.073195
-15829,'','Kalar&ThoSto SE',43.11409,-79.13734
 15830,'','Dunn&Stanley NW',43.079295,-79.084715
-15832,'','Mt. Carmel Plz',43.116892,-79.123685
-15854,'','Fourth&McRae NE',43.09873,-79.078479
-15855,'','Victoria&ClifHill SE',43.09242,-79.075408
-15879,'','Morrison&Opp Oakes Pk',43.104441,-79.088156
 15905,'','Dorchester& McL SW',43.07009,-79.109904
 15906,'','Drummond&McL NW',43.071211,-79.09713
 15929,'','Drummond&Morrison NE',43.104339,-79.098413
-15955,'','McL& Alex SW',43.070926,-79.091396
+15955,'','McL& Alex SW',43.0709255,-79.091396
 106264,'','Drummond Rd & Culp St',43.085842,-79.097515
 106267,'','Jill Dr & Jubilee Dr',43.067412,-79.113473
-106315,'','Niagara Sq A',43.066042,-79.123792
-106399,'','3652 Dorchester Rd',43.07036,-79.11703
+106315,'','Niagara Sq A',43.066011,-79.12392
 1000001,'','Portage Rd & Burning SpgHill N/E',43.06608,-79.07185
 1000002,'','Portage Rd & Marineland',43.06609,-79.07228
-5006162,'','Portage Rd & Hosp',43.094035,-79.09153
-5106461,'','Montrose Rd & Thorold Stone Rd N',43.114833,-79.124695
-5106520,'','Kalar Rd N.W. @ 5081 Kalar Rd',43.099208,-79.13675
-5106522,'','Paddock Trl Dr & Preakness 80',43.101068,-79.131593
-5106523,'','Paddock Trl Dr & Epson Ct',43.100537,-79.133262
-5106524,'','Paddock Trl Dr & Kalar Rd 8261',43.100488,-79.136672

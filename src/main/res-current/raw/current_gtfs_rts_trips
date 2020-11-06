@@ -1,18 +1,46 @@
-20301,0,'Main & Ferry Hub',203
-20300,0,'Niagara Sq A',203
-20400,0,'Main & Ferry Hub',204
-20401,0,'W Corner',204
-20501,0,'Mt. Carmel Plz',205
-20500,0,'Niagara Sq A',205
-20600,0,'Main & Ferry Hub',206
-20601,0,'Portage Rd & Front St(Tims)',206
-20900,0,'Montrose Rd & Thorold Stone Rd',209
-20901,0,'Morrison & Dorchester HUB',209
-21000,0,'Main & Ferry Hub',210
-21001,0,'Morrison & Dorchester HUB',210
-21101,0,'Morrison & Dorchester HUB',211
-21100,0,'Niagara Sq A',211
-21301,0,'Montrose Rd & Thorold Stone Rd',213
-21300,0,'Niagara Sq A',213
-21401,0,'Morrison & Dorchester HUB',214
-21400,0,'Portage Rd. & Keith St.',214
+10100,0,'Canadian Dr Hub',101
+10101,0,'Main & Ferry',101
+10200,0,'Bus Terminal',102
+10201,0,'Morrison / Dorchester',102
+10300,0,'Canadian Dr Hub',103
+10301,0,'Main & Ferry',103
+10400,0,'Bus Terminal',104
+10401,0,'Main & Ferry',104
+10501,0,'Canadian Dr Hub',105
+10500,0,'Mt Carmel Plz',105
+10600,0,'Chippawa',106
+10601,0,'Main & Ferry',106
+10701,0,'Main & Ferry',107
+10700,0,'Town & Country Plz',107
+10800,0,'Bus Terminal',108
+10801,0,'Morrison / Dorchester',108
+10901,0,'Morrison / Dorchester',109
+10900,0,'Mt Carmel Plz',109
+11001,0,'Main & Ferry',110
+11000,0,'Morrison / Dorchester',110
+11100,0,'Canadian Dr Hub',111
+11101,0,'Morrison / Dorchester',111
+11201,0,'Canadian Dr Hub',112
+11200,0,'Chippawa',112
+11301,0,'Canadian Dr Hub',113
+11300,0,'Mt Carmel Plz',113
+11400,0,'Riall',114
+11401,0,'Riall St',114
+20300,0,'Canadian Dr Hub',203
+20301,0,'Main & Ferry',203
+20400,0,'Bus Terminal',204
+20401,0,'Main & Ferry',204
+20501,0,'Canadian Dr Hub',205
+20500,0,'Mt Carmel Plz',205
+20600,0,'Chippawa',206
+20601,0,'Main & Ferry',206
+20901,0,'Morrison / Dorchester',209
+20900,0,'Mt. Carmel',209
+21001,0,'Main & Ferry',210
+21000,0,'Morrison / Dorchester',210
+21100,0,'Canadian Dr Hub',211
+21101,0,'Morrison / Dorchester',211
+21301,0,'Canadian Dr Hub',213
+21300,0,'Mt Carmel Plz',213
+21401,0,'Morrison / Dorchester',214
+21400,0,'T&c Plz',214

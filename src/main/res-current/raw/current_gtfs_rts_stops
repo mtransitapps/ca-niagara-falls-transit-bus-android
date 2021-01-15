@@ -31,7 +31,7 @@
 6127,'6127','Vly Way & Drummond Rd',43.097818,-79.097627
 6128,'6128','Portage Rd & Dennis Ln',43.127732,-79.09858
 6129,'6129','Portage Rd & Stamford Grn Dr',43.126325,-79.098945
-6130,'6130','Portage Rd Opp. Hosp',43.0939,-79.091713
+6130,'6130','Portage Rd Opp Hosp',43.0939,-79.091713
 6131,'6131','Main St & Summer St',43.09162,-79.092882
 6132,'6132','Main St & Ferry St Transfer Poin',43.089783,-79.092865
 6133,'6133','Main & Ferry Hub',43.088659,-79.092531
@@ -112,13 +112,13 @@
 6221,'6221','Dorchester Rd & Douglas St',43.072625,-79.109977
 6222,'6222','Dorchester Rd & McLeod Rd',43.070678,-79.109923
 6223,'6223','Montrose Rd East Side & Wayne St',43.090642,-79.12332
-6224,'6224','Montrose Rd S.E & Greendale St',43.093288,-79.123487
+6224,'6224','Montrose Rd SE & Greendale St',43.093288,-79.123487
 6225,'6225','Montrose Rd After Wanless St',43.097262,-79.123725
 6226,'6226','Jubilee Dr & Red Haven Cr',43.065758,-79.113893
 6227,'6227','Jubilee Dr & Ronnie Cr',43.064377,-79.113608
 6228,'6228','Jubilee & Dorchester',43.064638,-79.109857
 6229,'6229','Dorchester Rd & Fern Av',43.065902,-79.10965
-6230,'6230','Montrose Rd S.E & Preakness St',43.100163,-79.12394
+6230,'6230','Montrose Rd SE & Preakness St',43.100163,-79.12394
 6231,'6231','Montrose Rd Before Morrison St',43.103133,-79.123958
 6232,'6232','Montrose Rd Before Mulhern St',43.104803,-79.124067
 6233,'6233','Montrose Rd & Border City',43.109167,-79.124282
@@ -136,7 +136,7 @@
 6245,'6245','Drummond Rd & Margaret St',43.07679,-79.097142
 6246,'6246','Drummond Rd & Dunn St',43.078475,-79.097182
 6247,'6247','Dunn St & Locus Av',43.078745,-79.094805
-6248,'6248','Montrose Rd S.E & Chorozy St',43.1121,-79.124417
+6248,'6248','Montrose Rd SE & Chorozy St',43.1121,-79.124417
 6249,'6249','Victoria Av & Marriott',43.08976,-79.079745
 6250,'6250','Victoria&ClifHill',43.092414,-79.075444
 6251,'6251','Victoria Av South Side & Walnut',43.093257,-79.07403
@@ -229,7 +229,7 @@
 6389,'6389','Montrose&Delta S',43.080063,-79.122978
 6390,'6390','Montrose Rd After Delta Dr South',43.081972,-79.123057
 6391,'6391','Montrose&Delta N',43.083975,-79.123128
-6392,'6392','Opp St. George’s Church',43.08593,-79.123192
+6392,'6392','Opp St George’s Church',43.08593,-79.123192
 6394,'6394','Dorchester + Lundy''s Ln SW',43.08859,-79.1106
 6395,'6395','Dorchester Rd & Barker St',43.087082,-79.110462
 6396,'6396','Dorchester Rd & Stokes St',43.084022,-79.110318
@@ -357,7 +357,7 @@
 6559,'6559','O''Neal St & Dorchester Rd',43.122456,-79.111255
 6560,'6560','O''Neal St & Marion St',43.122527,-79.108545
 6561,'6561','O''Neal St & Marlborough',43.122598,-79.10586
-6562,'6562','O''Neal St @ A.N.MYER',43.12271,-79.10129
+6562,'6562','O''Neal St @ AN.MYER',43.12271,-79.10129
 6563,'6563','Stanley Av & Alexander Cr',43.102332,-79.085633
 6566,'6566','Stanley Av & Menzie St',43.109278,-79.08592
 6567,'6567','Stanley Av & Fraser St',43.112465,-79.085992
@@ -411,7 +411,7 @@
 6636,'6636','Zehrs Pkng Lot & Morrison St',43.1035,-79.113712
 6638,'6638','McLeod Rd & Fern Av',43.070575,-79.106518
 6639,'6639','McLeod Rd & Drummond Rd',43.070791,-79.097063
-6640,'6640','McLeod Rd Opp. Duncan Ave',43.070853,-79.094177
+6640,'6640','McLeod Rd Opp Duncan Ave',43.070853,-79.094177
 6643,'6643','McLeod Rd After Duncan Ave',43.070948,-79.094717
 6644,'6644','Dorchester&Morrison NE',43.105185,-79.111147
 6645,'6645','Church''s Ln & 5937 Church''s',43.130235,-79.095195
@@ -443,7 +443,7 @@
 6678,'6678','Kalar Rd & Marcon St',43.106855,-79.137053
 6679,'6679','Kalar Rd & Constabile Dr',43.108643,-79.137172
 6680,'6680','7021 Stanley Av',43.074263,-79.083528
-6681,'6681','Stanley Ave Opp Mt. Carmel',43.074103,-79.083678
+6681,'6681','Stanley Ave Opp Mt Carmel',43.074103,-79.083678
 6682,'6682','Drummond Rd & Margaret St',43.07679,-79.097237
 6683,'6683','Drummond Rd & Skinner St',43.074295,-79.097157
 6684,'6684','Drummond&McL NW',43.071211,-79.09713

@@ -1,7 +1,7 @@
 10100,0,'Canadian Dr Hub',101
 10101,0,'Main & Ferry',101
-10200,0,'Bus Term',102
-10201,0,'Morrison / Dorchester',102
+10200,0,'Main & Ferry Hub',102
+10201,0,'Victoria & Queen NE',102
 10300,0,'Canadian Dr Hub',103
 10301,0,'Main & Ferry',103
 10400,0,'Bus Term',104
@@ -26,8 +26,8 @@
 11300,0,'Mt Carmel Plz',113
 11401,0,'Morrison / Dorchester Hub',114
 11400,0,'Town & Country Plz',114
+20301,0,'Bus Term',203
 20300,0,'Canadian Dr Hub',203
-20301,0,'Main & Ferry',203
 20400,0,'Bus Term',204
 20401,0,'Main & Ferry',204
 20501,0,'Canadian Dr Hub',205

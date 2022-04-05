@@ -1,7 +1,7 @@
 3125,'3125','Vly Way & Portage',43.097922,-79.091085
 3346,'3346','Kalar Rd & Westwood',43.08024,-79.135882
 3578,'3578','Stanley Ave & Marineland Pkwy',43.0682,-79.08135
-3634,'3634','Morrison-Dorchester Hub',43.103486,-79.115698
+3635,'3635','M/D HUB Upper Platform',43.104125,-79.114575
 6102,'6102','NF Bus Term',43.107801,-79.063514
 6103,'6103','Queen St & Ontario Av',43.10668,-79.065002
 6104,'6104','Queen St & St Clair Av',43.106663,-79.066822
@@ -377,8 +377,8 @@
 6612,'6612','Murray SW @ Stanley',43.083396,-79.084657
 6613,'6613','Drummond Rd & N St',43.092892,-79.097777
 6615,'6615','Drummond Rd & Prospect St',43.09437,-79.097857
-6616,'6616','Drummond & Vly Way NE',43.098313,-79.098135
-6617,'6617','Drummond & Vly Way NW',43.097753,-79.098156
+6616,'6616','Drummond & Vly Way NE',43.097753,-79.098166
+6617,'6617','Drummond & Vly Way NW',43.098309,-79.098148
 6618,'6618','Drummond Rd & Prospect St',43.094647,-79.097992
 6619,'6619','Thorold Stone Rd & Montrose Rd',43.114688,-79.125785
 6620,'6620','Thorold Stone Rd & Cardinal Dr',43.11442,-79.131252
@@ -392,7 +392,6 @@
 6629,'6629','Dunn St & Aithanthus Av',43.078952,-79.089893
 6630,'6630','Dunn & Stanley SW',43.079093,-79.08498
 6631,'6631','Drummond & Morrison NE',43.104474,-79.098472
-6636,'6636','Zehrs Pkng Lot & Morrison St',43.1035,-79.113712
 6638,'6638','McLeod Rd & Fern Av',43.070575,-79.106518
 6639,'6639','McLeod Rd & Drummond Rd',43.070791,-79.097063
 6640,'6640','McLeod Rd Opp Duncan Ave',43.070853,-79.094177

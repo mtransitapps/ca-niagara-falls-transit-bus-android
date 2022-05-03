@@ -1,12 +1,11 @@
-3125,'3125','Vly Way & Portage',43.097922,-79.091085
 3346,'3346','Kalar Rd & Westwood',43.08024,-79.135882
 3578,'3578','Stanley Ave & Marineland Pkwy',43.0682,-79.08135
 3635,'3635','M/D HUB Upper Platform',43.104125,-79.114575
+6001,'6001','Pk St & Ontario St',43.10768,-79.06534
+6002,'6002','Pk St & St Clair St',43.107666,-79.067014
+6003,'6003','Pk St & Crysler Ave',43.107658,-79.068607
+6004,'6004','Pk St & Victoria Ave',43.107636,-79.073206
 6102,'6102','NF Bus Term',43.107801,-79.063514
-6103,'6103','Queen St & Ontario Av',43.10668,-79.065002
-6104,'6104','Queen St & St Clair Av',43.106663,-79.066822
-6106,'6106','Queen St & St Lawrence Av',43.106672,-79.07008
-6107,'6107','Vly Way & Queen St',43.106309,-79.072155
 6108,'6108','Valleyway & Morrison',43.10471,-79.074086
 6109,'6109','Morrison St & 2nd Av',43.104645,-79.076358
 6110,'6110','4th Av & Morrison St',43.104287,-79.078657
@@ -145,6 +144,7 @@
 6263,'6263','Drummond Rd & Delaware St',43.084722,-79.097492
 6264,'6264','Drummond Rd & Culp St',43.085842,-79.097515
 6266,'6266','Dorchester + McLeod Rd',43.07009,-79.109904
+6267,'6267','Jill Dr @ Jubilee',43.067412,-79.113473
 6268,'6268','Ferry St & Main St',43.089465,-79.091952
 6269,'6269','Ferry St & Temperence Av',43.089465,-79.089607
 6270,'6270','Ferry St & Allendale Av',43.08949,-79.086
@@ -431,7 +431,6 @@
 6683,'6683','Drummond Rd & Skinner St',43.074295,-79.097157
 6684,'6684','Drummond & McL NW',43.071211,-79.09713
 6685,'6685','Church''s Ln & St Anthoney Cr',43.130354,-79.092948
-6686,'6686','McLeod Rd & Dorchester Rd',43.070472,-79.110103
 6688,'6688','Willoughby Dr & Caronpost Rd',43.052332,-79.046385
 6689,'6689','Opp Bella Retirement Home',43.050756,-79.046281
 6690,'6690','McLeod Rd & Alex Av',43.071083,-79.091197
@@ -510,7 +509,6 @@
 6829,'6829','Dorchester Rd & Dawson St',43.100362,-79.111287
 6835,'6835','Dorchester Rd & Jill Dr',43.067095,-79.109673
 6836,'6836','Dorchester Rd & Mcleod Rd SE',43.069988,-79.109781
-6837,'6837','Willoughby Dr & Aberdeen St',43.057502,-79.048758
 6838,'6838','Weinbrenner Before Campbell',43.049079,-79.051224
 6847,'6847','Dorchester Rd & McMillan Dr',43.080485,-79.110222
 6848,'6848','Boys & Girls Club',43.069597,-79.145493
@@ -536,5 +534,5 @@
 6915,'6915','Kalar Rd & Beaverdams Rd',43.095172,-79.136448
 6918,'6918','Montrose Rd & Lundy''s Ln',43.088791,-79.123225
 8270,'8270','Ferry St & Allendale (S/E)',43.08951,-79.0859
-62671,'62671','Jill Dr & Jubilee Dr',43.067413,-79.113473
+66861,'66861','McLeod Rd & Dorchester Rd',43.070472,-79.110103
 99996,'99996','Ferry & Stanley',43.089641,-79.084035

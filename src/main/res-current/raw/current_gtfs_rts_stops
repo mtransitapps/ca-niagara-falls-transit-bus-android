@@ -7,7 +7,7 @@
 6003,'6003','Pk St & Crysler Av',43.107658,-79.068607
 6004,'6004','Pk St & Victoria Ave',43.107636,-79.073206
 6102,'6102','NF Bus Term',43.107801,-79.063514
-6108,'6108','Vly Way & Morrison',43.10471,-79.074086
+6108,'6108','Vly Way & Morrison',43.104756,-79.074077
 6109,'6109','Morrison St & 2nd Av',43.104645,-79.076358
 6110,'6110','4th Av & Morrison St',43.104287,-79.078657
 6112,'6112','4th Av & Vly Way',43.102507,-79.078577
@@ -16,8 +16,6 @@
 6115,'6115','McRae St & Detroit Av',43.09859,-79.081167
 6116,'6116','Morrison & Portage NW',43.104396,-79.093789
 6120,'6120','Morrison St & 5645 Morrison St',43.104444,-79.088339
-6121,'6121','Morrison St & 5753 Morrison St',43.10442,-79.090662
-6122,'6122','Morrison & Portage Continues NE',43.104074,-79.095878
 6123,'6123','Portage Rd & Scott St',43.101263,-79.091699
 6124,'6124','Portage Rd & 5123 Portage Rd',43.099638,-79.091157
 6125,'6125','Vly Way & Portage NW',43.097963,-79.09138
@@ -60,9 +58,6 @@
 6171,'6171','Morrison & Portage',43.104247,-79.093405
 6172,'6172','Morrison St & Law Av',43.104383,-79.08929
 6173,'6173','Morrison St & Stanley Av',43.104415,-79.08607
-6174,'6174','Morrison St & Portage NE',43.104445,-79.092915
-6175,'6175','Morrison & Opp Oakes Pk',43.10446,-79.086701
-6177,'6177','Morrison Opp Portage Rd Cont',43.103986,-79.096166
 6178,'6178','McRae St & Detroit Av',43.098518,-79.081263
 6179,'6179','4th & McRae NE',43.098884,-79.078314
 6180,'6180','4th Av & Jepson St',43.100258,-79.078393
@@ -154,7 +149,6 @@
 6283,'6283','Kalar @ Across From Marcon',43.106574,-79.137084
 6284,'6284','Kalar Rd & Constabile Dr',43.108412,-79.137203
 6289,'6289','Bridge St & Homewood Av',43.108578,-79.08317
-6300,'6300','Portage Rd & Keith St',43.119753,-79.099462
 6301,'6301','Kalar Rd & Catalina St',43.087693,-79.13617
 6302,'6302','Kalar Rd & Forestview Blvd',43.082193,-79.135908
 6303,'6303','Kalar Rd & Lundy''s Ln SE',43.088505,-79.135993
@@ -191,7 +185,7 @@
 6370,'6370','Montrose Rd & Watson St',43.096713,-79.12386
 6372,'6372','Montrose Rd & Rysdale St',43.093718,-79.123638
 6373,'6373','Montrose Rd & Wayne St',43.091078,-79.123487
-6374,'6374','Montrose Rd & Lundy''s Ln',43.088426,-79.12332
+6374,'6374','Montrose Rd & Lundy''s Ln',43.087912,-79.123348
 6375,'6375','St George’s Church',43.086112,-79.123263
 6376,'6376','Montrose Rd & Charnwood Av',43.084245,-79.123217
 6377,'6377','Montrose Rd Before Badger Rd',43.081972,-79.123137

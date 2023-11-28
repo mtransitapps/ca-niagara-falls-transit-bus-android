@@ -64,7 +64,7 @@
 6186,'6186','Huron St & St Lawrence Av',43.105623,-79.070538,0
 6188,'6188','Huron St & St Clair Av',43.105655,-79.067697,0
 6189,'6189','Queen St & Erie Av',43.106655,-79.064303,0
-6191,'6191','Huron @ 4422 S Side',43.105627,-79.065613,0
+6191,'6191','Huron St + Ontario Av',43.105627,-79.065613,0
 6193,'6193','Bridge St & River Rd',43.108865,-79.060488,0
 6194,'6194','Victoria Av & Morrison St',43.104757,-79.0733,0
 6195,'6195','Victoria Av & Simcoe St',43.101983,-79.073172,0
@@ -88,16 +88,16 @@
 6217,'6217','Dorchester Rd & Dunn St',43.077482,-79.110127,0
 6219,'6219','Dorchester Rd & Winston St',43.074342,-79.110048,0
 6222,'6222','Dorchester Rd & McLeod Rd',43.070678,-79.109923,0
-6223,'6223','Montrose Rd E Side & Wayne St',43.090642,-79.12332,0
-6224,'6224','Montrose Rd SE & Greendale St',43.093288,-79.123487,0
-6225,'6225','Montrose Rd After Wanless St',43.097262,-79.123725,0
+6223,'6223','Montrose Rd & Wayne St',43.090642,-79.12332,0
+6224,'6224','Montrose Rd + Greendale St',43.093288,-79.123487,0
+6225,'6225','Montrose Rd + Wanless St',43.097262,-79.123725,0
 6226,'6226','Jubilee Dr & Red Haven Cr',43.065758,-79.113893,0
 6227,'6227','Jubilee Dr & Ronnie Cr',43.064377,-79.113608,0
 6228,'6228','Jubilee & Dorchester',43.064638,-79.109857,0
-6230,'6230','Montrose Rd SE & Preakness St',43.100163,-79.12394,0
-6231,'6231','Montrose Rd Before Morrison St',43.103133,-79.123958,0
-6232,'6232','Montrose Rd Before Mulhern St',43.104803,-79.124067,0
-6233,'6233','Montrose Rd & Border City',43.109167,-79.124282,0
+6230,'6230','Montrose Rd + Preakness St',43.100163,-79.12394,0
+6231,'6231','4850 Montrose Rd',43.102508,-79.123956,0
+6232,'6232','4726 Montrose Rd',43.104803,-79.124067,0
+6233,'6233','4400 Montrose Rd',43.109167,-79.124282,0
 6234,'6234','Culp SW @ Dawlish',43.085961,-79.096533,0
 6236,'6236','Culp St & Orchard Ave',43.086121,-79.093623,0
 6237,'6237','Culp St & Main St',43.086279,-79.09161,0
@@ -108,7 +108,7 @@
 6243,'6243','Drummond Rd & Churchill St',43.074755,-79.09707,0
 6246,'6246','Drummond Rd & Dunn St',43.078475,-79.097182,0
 6247,'6247','Dunn St & Locus Av',43.078745,-79.094805,0
-6248,'6248','Montrose Rd SE & Chorozy St',43.1121,-79.124417,0
+6248,'6248','Montrose Rd + Chorozy St',43.1121,-79.124417,0
 6249,'6249','Victoria Av & Marriott',43.08976,-79.079745,0
 6250,'6250','Victoria & ClifHill',43.092414,-79.075444,0
 6251,'6251','Victoria Av S Side & Walnut',43.093257,-79.07403,0
@@ -124,7 +124,6 @@
 6264,'6264','Drummond Rd & Culp St',43.085842,-79.097515,0
 6266,'6266','Dorchester + McLeod Rd',43.07009,-79.109904,0
 6267,'6267','Jill Dr & Jubilee Dr',43.067412,-79.113473,1
-6268,'6268','Ferry St & Main St',43.089465,-79.091952,0
 6269,'6269','Ferry St & Temperence Av',43.089465,-79.089607,0
 6270,'6270','Ferry St & Allendale Av',43.08949,-79.086,0
 6271,'6271','Ferry St & Fallsview Blvd',43.089522,-79.083012,0
@@ -166,16 +165,16 @@
 6364,'6364','Montrose Rd & Thorold Stone Rd',43.113602,-79.124695,0
 6365,'6365','Montrose Rd & Chorozy St',43.112402,-79.124615,0
 6366,'6366','Montrose Rd & Alpine Dr',43.108627,-79.124385,0
-6367,'6367','Montrose & Woodbine SW',43.104096,-79.12424,0
+6367,'6367','Montrose Rd + Woodbine St',43.104096,-79.12424,0
 6369,'6369','Montrose Rd & Preakness St',43.100457,-79.124138,0
 6370,'6370','Montrose Rd & Watson St',43.096713,-79.12386,0
 6372,'6372','Montrose Rd & Rysdale St',43.093718,-79.123638,0
 6373,'6373','Montrose Rd & Wayne St',43.091078,-79.123487,0
 6374,'6374','Montrose Rd & Lundy''s Ln',43.087912,-79.123348,0
 6375,'6375','St George’s Church',43.086112,-79.123263,0
-6376,'6376','Montrose Rd & Charnwood Av',43.084245,-79.123217,0
-6377,'6377','Montrose Rd Before Badger Rd',43.081972,-79.123137,0
-6378,'6378','Montrose Rd & Badger Rd',43.08051,-79.123065,0
+6376,'6376','Montrose Rd + Charnwood Av',43.084245,-79.123217,0
+6377,'6377','6409 Montrose Rd',43.081972,-79.123137,0
+6378,'6378','Montrose Rd + Badger Rd',43.08051,-79.123065,0
 6379,'6379','Montrose Rd & Kinsmen Ct',43.07644,-79.123432,0
 6380,'6380','O''Neil St & St Patricks Av',43.122852,-79.10125,0
 6381,'6381','O''Neal St & Marlborough St',43.122733,-79.105677,0
@@ -186,10 +185,10 @@
 6386,'6386','Dorchester Rd & Thorold Stone Rd',43.116415,-79.112018,0
 6387,'6387','Dorchester Rd & Isaac St',43.116582,-79.111892,0
 6388,'6388','Montrose + Marpin Crt',43.078166,-79.12278,0
-6389,'6389','Montrose & Delta S',43.080063,-79.122978,0
-6390,'6390','Montrose Rd After Delta Dr S',43.081972,-79.123057,0
-6391,'6391','Montrose & Delta N',43.083975,-79.123128,0
-6392,'6392','Opp St George’s Church',43.08593,-79.123192,0
+6389,'6389','Montrose Rd + Badger Rd',43.080063,-79.122978,0
+6390,'6390','6490 Montrose Rd',43.081972,-79.123057,0
+6391,'6391','Montrose Rd + Delta Dr',43.083975,-79.123128,0
+6392,'6392','6110 Montrose Rd',43.08593,-79.123192,0
 6394,'6394','Dorchester + Lundy''s Ln SW',43.08859,-79.1106,0
 6395,'6395','Dorchester Rd & Barker St',43.087082,-79.110462,0
 6396,'6396','Dorchester Rd & Stokes St',43.084022,-79.110318,0
@@ -295,7 +294,7 @@
 6544,'6544','Portage Rd & Stamford Medical',43.111583,-79.097427,0
 6545,'6545','Portage Rd & Virginia St',43.113188,-79.097937,0
 6546,'6546','Portage Rd & Thorold Stone Rd',43.11473,-79.098548,0
-6548,'6548','Drummond Rd & Scott St',43.100847,-79.098293,0
+6548,'6548','Drummond Rd & Scott St',43.100587,-79.098258,0
 6549,'6549','Kalar Rd & 4167 Kalar Rd',43.111822,-79.137433,0
 6550,'6550','Morrison Clinc',43.104455,-79.101893,0
 6551,'6551','Morrison St & 6777 Morrison St',43.104343,-79.109332,0
@@ -351,7 +350,7 @@
 6619,'6619','Thorold Stone Rd & Montrose Rd',43.114688,-79.125785,0
 6620,'6620','Thorold Stone Rd & Cardinal Dr',43.11442,-79.131252,0
 6621,'6621','Drummond Rd & 5595 Drummond Rd',43.09282,-79.097888,0
-6623,'6623','Dunn St & Carlton',43.078093,-79.106925,0
+6623,'6623','Dunn St & Carlton Av',43.078093,-79.106925,0
 6624,'6624','Dunn St & Caledonia St',43.078372,-79.1033,0
 6625,'6625','Dunn St & Kiwanis Cr',43.078435,-79.100867,0
 6626,'6626','Dunn & Drummond SW',43.07858,-79.09747,0
@@ -495,7 +494,7 @@
 6913,'6913','Main St & Murray St',43.083728,-79.086618,0
 6914,'6914','Stanley Av & Vly Way',43.098938,-79.085435,0
 6915,'6915','Kalar Rd & Beaverdams Rd',43.095172,-79.136448,0
-6918,'6918','Montrose Rd & Lundy''s Ln',43.088791,-79.123225,0
+6918,'6918','Montrose Rd & Lundy''s Ln',43.088031,-79.123137,0
 8270,'8270','Ferry St & Allendale (S/E)',43.08951,-79.0859,0
 66861,'66861','McLeod Rd & Dorchester Rd',43.070472,-79.110103,0
 99996,'99996','Ferry & Stanley',43.089641,-79.084035,0

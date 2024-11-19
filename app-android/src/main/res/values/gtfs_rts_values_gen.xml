@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="gtfs_rts_source_label">71.24.110</string>
+    <string name="gtfs_rts_agency_id">1</string>
     <integer name="gtfs_rts_agency_type">3</integer>
     <string name="gtfs_rts_timezone">America/New_York</string>
     <string name="gtfs_rts_color">B2DA18</string>

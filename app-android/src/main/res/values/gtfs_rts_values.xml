@@ -3,4 +3,5 @@
     <integer name="gtfs_rts_db_version">20250826</integer>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://nrtransit.ca/about-nrt/contact-us/</string>
+    <string name="gtfs_rts_fares">https://nrtransit.ca/fares/</string>
 </resources>

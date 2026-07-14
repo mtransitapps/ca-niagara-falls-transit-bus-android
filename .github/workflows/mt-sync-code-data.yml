@@ -17,7 +17,7 @@ on:
         default: false
         required: false
       skip-app-release:
-        description: 'App release > SKIP (event if data change or latest release old)'
+        description: 'App release > SKIP (even if data change or latest release old)'
         type: boolean
         default: false
         required: false
@@ -99,13 +99,13 @@ jobs:
   MT-SYNC-CODE-DATA-JOB:
     name: "MT Sync Code & Data"
     # if: ${{ env.MT_IS_MAIN_REPO != 'true' }} # can NOT use env here:
-    if: ${{ ! endsWith(github.repository, '/mtransit-for-android') && (github.event_name != 'pull_request' || !github.event.pull_request.draft) }}
+    if: ${{ ! endsWith(github.repository, '/mtransit-for-android') && ! contains(github.repository, '/xx-') && (github.event_name != 'pull_request' || !github.event.pull_request.draft) }}
     # timeout-minutes: 45
     timeout-minutes: 90
     runs-on: ubuntu-latest
     steps:
       - name: MT check out main repository code (with submodules)
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           submodules: true # required to set right token
           token: ${{ secrets.MT_PAT }}
@@ -113,7 +113,7 @@ jobs:
 
       - name: MT setup
         id: mt-setup
-        uses: mtransitapps/gh-actions/.github/actions/setup@v1.2.1
+        uses: mtransitapps/gh-actions/.github/actions/setup@v1.3.0
         with:
           code-sync: ${{ github.ref == format('refs/heads/{0}', env.MT_DEFAULT_BRANCH_NAME) }}
 
@@ -131,12 +131,12 @@ jobs:
           fi
 
       - name: MT commit code change
-        if: ${{ github.ref == format('refs/heads/{0}', env.MT_DEFAULT_BRANCH_NAME) }}
+        if: ${{ github.ref == format('refs/heads/{0}', env.MT_DEFAULT_BRANCH_NAME) || github.event_name == 'pull_request' }}
         run: ./commit_code_change.sh
 
-      # DOWNLOAD (not PR) AND PARSE (NOT main repo/bike)
+      # DOWNLOAD (not PR, OR PR without archive data) AND PARSE (NOT main repo/bike)
       - name: MT download data (& archive)
-        if: ${{ github.event_name != 'pull_request' && env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' && github.event.inputs.skip-download-data != 'true' }}
+        if: ${{ (github.event_name != 'pull_request' || hashFiles('agency-parser/archive/**/*.zip') == '') && env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' && github.event.inputs.skip-download-data != 'true' }}
         id: mt-download-data
         timeout-minutes: 10
         continue-on-error: true # optional (continue with archive data)
@@ -145,6 +145,39 @@ jobs:
       - name: MT select archive
         if: ${{ env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' }}
         run: ./prepare_only.sh
+
+      - name: MT log GTFS CSV previews
+        if: ${{ env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' }}
+        continue-on-error: true
+        run: |
+          for DIR in "agency-parser/input/gtfs/" "agency-parser/input/gtfs_next/"; do
+            if [ ! -d "$DIR" ]; then
+              echo "Directory not found: $DIR";
+              continue;
+            fi
+
+            echo "Listing CSV previews from TXT files in $DIR";
+            TXT_FILES_FOUND=false;
+            while IFS= read -r -d '' FILE; do
+              TXT_FILES_FOUND=true;
+              TOTAL_LINES=$(wc -l < "$FILE");
+              COLUMN_COUNT=$(awk -F',' 'NR==1{print NF; exit}' "$FILE");
+              HEADER=$(head -n 1 "$FILE");
+              HEADER=${HEADER%$'\r'};
+              echo "::group::$FILE (lines=$TOTAL_LINES, columns=$COLUMN_COUNT)";
+              echo "Header: $HEADER";
+              echo "Preview (first 100 lines, numbered):";
+              head -n 100 "$FILE" | nl -ba;
+              if [ "$TOTAL_LINES" -gt 100 ]; then
+                echo "Preview truncated ($TOTAL_LINES total lines).";
+              fi
+              echo "::endgroup::";
+            done < <(find "$DIR" -maxdepth 1 -type f -name "*.txt" -print0 | sort -z)
+
+            if [ "$TXT_FILES_FOUND" = false ]; then
+              echo "No TXT files found in $DIR";
+            fi
+          done
 
       - name: MT reset current schedule
         if: ${{ env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' && github.event.inputs.reset-current-schedule == 'true' }}

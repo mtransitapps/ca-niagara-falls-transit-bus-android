@@ -1,0 +1,128 @@
+{
+    "exclude_routes": [
+        {
+            "route_short_name_regex": "^\\d{2}$"
+        },
+        {
+            "route_short_name_regex": "^[^12]\\d{2}$"
+        }
+    ],
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "07495F"
+    ],
+    "route_colors": [
+        {
+            "route_short_name": "101",
+            "color": "F57215"
+        },
+        {
+            "route_short_name": "102",
+            "color": "2E3192"
+        },
+        {
+            "route_short_name": "103",
+            "color": "EC008C"
+        },
+        {
+            "route_short_name": "104",
+            "color": "19B5F1"
+        },
+        {
+            "route_short_name": "105",
+            "color": "ED1C24"
+        },
+        {
+            "route_short_name": "106",
+            "color": "BAA202"
+        },
+        {
+            "route_short_name": "107",
+            "color": "A05843"
+        },
+        {
+            "route_short_name": "108",
+            "color": "008940"
+        },
+        {
+            "route_short_name": "109",
+            "color": "66E530"
+        },
+        {
+            "route_short_name": "110",
+            "color": "4372C2"
+        },
+        {
+            "route_short_name": "111",
+            "color": "F24D3E"
+        },
+        {
+            "route_short_name": "112",
+            "color": "9E50AE"
+        },
+        {
+            "route_short_name": "113",
+            "color": "724A36"
+        },
+        {
+            "route_short_name": "114",
+            "color": "B30E8E"
+        },
+        {
+            "route_short_name": "203",
+            "color": "EC008C"
+        },
+        {
+            "route_short_name": "204",
+            "color": "19B5F1"
+        },
+        {
+            "route_short_name": "205",
+            "color": "ED1C24"
+        },
+        {
+            "route_short_name": "206",
+            "color": "BAA202"
+        },
+        {
+            "route_short_name": "209",
+            "color": "66C530"
+        },
+        {
+            "route_short_name": "210",
+            "color": "4372C2"
+        },
+        {
+            "route_short_name": "211",
+            "color": "F24D3E"
+        },
+        {
+            "route_short_name": "213",
+            "color": "724A36"
+        },
+        {
+            "route_short_name": "214",
+            "color": "B30E8E"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(.* -> terminal$)",
+            "ignore_case": true,
+            "replacement": "Bus Terminal",
+            "comment": "fix '-> terminal' to 'Bus Terminal'"
+        },
+        {
+            "regex": "(^[^\\-]+-)",
+            "ignore_case": true,
+            "replacement": "",
+            "comment": "remove route long name before the first '-'"
+        }
+    ],
+    "use_stop_code_for_stop_id_if_available": true,
+    "stop_name_cleaners": []
+}

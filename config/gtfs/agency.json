@@ -1,0 +1,17 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "B2DA18",
+    "default_color_comment": "GREEN (from PDF Service Schedule)",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true,
+    "to_lower_upper_case_words": true,
+    "ignore_upper_case_words": [
+        "NF",
+        "CB",
+        "LL",
+        "NW",
+        "SW",
+        "NE",
+        "SE"
+    ]
+}

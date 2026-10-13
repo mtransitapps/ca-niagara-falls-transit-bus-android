@@ -13,98 +13,111 @@
     "route_colors_ignored": [
         "07495F"
     ],
+    "route_colors_comment": "From https://nrtransit.ca/routes/niagara-falls/",
     "route_colors": [
         {
             "route_short_name": "101",
-            "color": "F57215"
+            "color": "E5A000"
         },
         {
             "route_short_name": "102",
-            "color": "2E3192"
+            "color": "7060A8"
         },
         {
             "route_short_name": "103",
-            "color": "EC008C"
+            "color": "E87AAB"
         },
         {
             "route_short_name": "104",
-            "color": "19B5F1"
+            "color": "50B0D8"
         },
         {
             "route_short_name": "105",
-            "color": "ED1C24"
+            "color": "D86040"
         },
         {
             "route_short_name": "106",
-            "color": "BAA202"
+            "color": "E8D800"
         },
         {
             "route_short_name": "107",
-            "color": "A05843"
+            "color": "B08870"
         },
         {
             "route_short_name": "108",
-            "color": "008940"
+            "color": "038A48"
         },
         {
             "route_short_name": "109",
-            "color": "66E530"
+            "color": "9CB800"
         },
         {
             "route_short_name": "110",
-            "color": "4372C2"
+            "color": "7090C8"
         },
         {
             "route_short_name": "111",
-            "color": "F24D3E"
+            "color": "E89070"
         },
         {
             "route_short_name": "112",
-            "color": "9E50AE"
+            "color": "C890B8"
         },
         {
             "route_short_name": "113",
-            "color": "724A36"
+            "color": "987058"
         },
         {
             "route_short_name": "114",
-            "color": "B30E8E"
+            "color": "C070A0"
+        },
+        {
+            "route_short_name": "115",
+            "color": "000000"
+        },
+        {
+            "route_short_name": "116",
+            "color": "DD0000"
         },
         {
             "route_short_name": "203",
-            "color": "EC008C"
+            "color": "F79AC3"
         },
         {
             "route_short_name": "204",
-            "color": "19B5F1"
+            "color": "7DD3F7"
         },
         {
             "route_short_name": "205",
-            "color": "ED1C24"
+            "color": "F79675"
         },
         {
             "route_short_name": "206",
-            "color": "BAA202"
+            "color": "FFF34E"
         },
         {
             "route_short_name": "209",
-            "color": "66C530"
+            "color": "BED734"
         },
         {
             "route_short_name": "210",
-            "color": "4372C2"
+            "color": "96AEDB"
         },
         {
             "route_short_name": "211",
-            "color": "F24D3E"
+            "color": "FEAE9B"
         },
         {
             "route_short_name": "213",
-            "color": "724A36"
+            "color": "B69686"
         },
         {
             "route_short_name": "214",
-            "color": "B30E8E"
+            "color": "D792BE"
+        },
+        {
+            "route_short_name": "216",
+            "color": "FF0000"
         }
     ],
     "direction_finder_enabled": true,

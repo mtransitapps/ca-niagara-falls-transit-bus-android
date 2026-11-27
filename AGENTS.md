@@ -8,6 +8,8 @@ Main repository `mtransit-for-android` builds run on the checkout branch for all
 Submodule repository builds run on the main repository `mtransit-for-android` same branch name or fall back to their default branch.
 Other submodules repositories will use main repository `mtransit-for-android` checkout branch or fall back to their default branch.
 
+Main repository pull requests don't update git submodule(s) git-link(s) since it's done automatically after merging by a CI workflow (to avoid merge conflicts).
+
 The main git repositories with business logic are:
 - https://github.com/mtransitapps/mtransit-for-android/: the main Android app
 - https://github.com/mtransitapps/commons-android/: the shared Android library code between the main Android app and the other "agency modules" apps
@@ -22,6 +24,8 @@ The main build file is:
 - https://github.com/mtransitapps/mtransit-for-android/blob/master/.github/workflows/mt-build.yml
 It's using:
 - https://github.com/mtransitapps/gh-actions/blob/master/.github/actions/setup/action.yml
+Detekt config:
+- https://github.com/mtransitapps/commons/blob/master/config/detekt/detekt-config.yml
 
 Shared code and files are deployed/generated from:
 - https://github.com/mtransitapps/commons/tree/master/shared: code/files shared between all root repositories (not submodules)
@@ -33,3 +37,10 @@ Shared code and files are deployed/generated from:
 
 Dependencies versions are all in (some dependencies use BOMs):
 - https://github.com/mtransitapps/commons/blob/master/gradle/libs.versions.toml
+
+Code changes must compile, pass detekt & lint analysis, and pass unit tests.
+The following Gradle commands are available:
+- `compileAll`: compile code for all modules or an individual module
+- `detektAll`: run detekt on all modules or an individual module
+- `:app-android:lintDebug`: run lint checks on the main Android app and all dependencies (modules)
+- `testAll`: run unit tests on all modules or an individual module
